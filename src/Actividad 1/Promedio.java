@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class Main {
+public class Promedio {
     public static void main(String[] args) {
 
         String x1 = JOptionPane.showInputDialog(null, "Dame un número", "Entrada de Datos", JOptionPane.QUESTION_MESSAGE);
