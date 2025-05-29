@@ -12,7 +12,7 @@ public class MainUsuarioAsegurado
         String nombreUsuario;
 
         do
-        
+        {
             nombreUsuario = JOptionPane.showInputDialog("Ingrese su nombre de usuario:");
             usuarioseguro.setNombreUsuario(nombreUsuario);
 
