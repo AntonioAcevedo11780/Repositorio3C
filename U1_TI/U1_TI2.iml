@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/U1_TI_01_PromedioDialogo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/U1_TI_02_FigurasObjetos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/U1_TI_03_PromedioEstudiante" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/U1_TI_04_Computadora" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/U1_TI_05_CuentaBancaria" isTestSource="false" packagePrefix="main" />
+      <sourceFolder url="file://$MODULE_DIR$/U1_TI_06_UsuarioAsegurado" isTestSource="false" packagePrefix="main" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

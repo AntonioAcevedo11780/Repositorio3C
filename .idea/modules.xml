@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Ton.iml" filepath="$PROJECT_DIR$/Ton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/U1_TI.iml" filepath="$PROJECT_DIR$/U1_TI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/U1_TI/U1_TI2.iml" filepath="$PROJECT_DIR$/U1_TI/U1_TI2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/U2_TI/U2_TI.iml" filepath="$PROJECT_DIR$/U2_TI/U2_TI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/U2_TI/U2_TI_05_EmpleadoSistema/U2_TI_05_EmpleadoSistema.iml" filepath="$PROJECT_DIR$/U2_TI/U2_TI_05_EmpleadoSistema/U2_TI_05_EmpleadoSistema.iml" />
     </modules>
   </component>
 </project>
